@@ -16,7 +16,7 @@ Kaggle 쓰레기 이미지를 12개 클래스로 분류하는 CNN 프로젝트�
 
 최종 제출물은 위의 **세 파일**입니다.
 
-하이퍼파라미터 탐색을 진행한 전체 파일은 [https\://github.com/njw257/bigdata](https://github.com/njw257/bigdata에) 에 garbage\_experiments.ipynb 이름으로 존래합니다
+하이퍼파라미터 탐색을 진행한 전체 파일은 [https\://github.com/njw257/bigdata](https://github.com/njw257/bigdata에) 에 garbage\_experiments.ipynb 이름으로 존재합니다
 
 실행 방법
 
